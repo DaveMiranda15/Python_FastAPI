@@ -9,6 +9,5 @@ Press control B in sublime to run the script.
 
 Then open command prompt in the project folder, type "uvicorn working:app --reload"
 
-Enter http://127.0.0.1:8000 in the browser to see the working API.
-
+Enter http://127.0.0.1:8000 in the browser to see the working API./n
 Go "/docs" page to check all features with the API.
