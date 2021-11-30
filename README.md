@@ -1,7 +1,7 @@
 # Python_FastAPI
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
-Using sublime text to bulid this project. 
+Using sublime text to bulid this project.  
 Install fastapi and uvicorn module for this project.
 Press control B in sublime to run the script.
 Then open command prompt in the project folder, type "uvicorn working:app --reload"
